@@ -34,6 +34,11 @@ This project is a **static clone of the Amazon homepage**, created using **only 
 > Any use of logos, images, or branding elements belonging to Amazon is **not intended for commercial use**. All trademarks and copyrights belong to their respective owners.
 
 ---
+## 📸 Screenshot
+
+![Amazon Clone Homepage](![Amazon clone](https://github.com/user-attachments/assets/390f933b-901a-4e85-9cf1-9e36a7a33235)
+)
+
 
 ## 🧠 Purpose:
 
